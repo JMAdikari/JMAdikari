@@ -56,15 +56,28 @@ const Jayani = () => {
   );
 };
 ```
-🚀 Featured Projects
-<div align="center"> <a href="https://github.com/JMAdikari/MovieExplorer-Backend"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=StudentManagement-SpringBoot&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" /> 
-</a> <a href="https://github.com/JMAdikari/Movie-Explorer"> <img src="[https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Selenium-Automation-Test&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E](https://github.com/JMAdikari/Movie-Explorer/blob/main/README.md)" /> </a> 
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/JMAdikari/MovieExplorer-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  </a>
+  <a href="https://github.com/JMAdikari/Movie-Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Movie-Explorer&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  </a>
 </div>
 
-📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/JMAdikari/Book-Library-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+  </a>
+</div>
+
+
+## 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JMAdikari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=FFFFFF" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMAdikari&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /> </div> <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMAdikari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" /> </div>
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JMAdikari&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div> <div align="center">
