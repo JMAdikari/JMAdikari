@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm **Jayani**, a Computing graduate from **NSBM Green University, Sri Lanka**, working at the point where **AI/ML, software engineering, and research** meet. I enjoy taking an idea all the way from a research question to a working product, and I care about AI that is **reliable, transparent, and genuinely useful** to the people who depend on it.
+I'm **Jayani Adikari**, a Computer Science graduate from **NSBM Green University, Sri Lanka**, working at the point where **AI/ML, software engineering and research** meet. I enjoy taking an idea all the way from a research question to a working product and I care about AI that is **reliable, transparent and genuinely useful** to the people who depend on it.
 
 ```python
 class Jayani:
