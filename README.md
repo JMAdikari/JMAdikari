@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:F1A11E&height=180&section=header&text=Jayani%20Adikari&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Research%20%C2%B7%20Community&descAlignY=56&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Building+practical+and+ethical+AI+systems;Full-stack+developer+%7C+Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+Spring;Published+researcher+on+LLM+hallucination+mitigation;Microsoft+Student+Ambassador+%26+builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Building+practical+and+ethical+AI+systems;Full-stack+developer+%7C+Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+Spring;Published+researcher+on+LLM+hallucination+mitigation;Microsoft+Student+Ambassador+%26+community+builder)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/jayani-adikari-a9aa31291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jayaniadikari19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,16 +14,16 @@
 
 ## About Me
 
-I'm **Jayani Adikari**, a Computer Science graduate from **NSBM Green University, Sri Lanka**, working at the point where **AI/ML, software engineering and research** meet. I enjoy taking an idea all the way from a research question to a working product and I care about AI that is **reliable, transparent and genuinely useful** to the people who depend on it.
+I'm **Jayani**, a Computing graduate from **NSBM Green University, Sri Lanka**, working at the point where **AI/ML, software engineering, and research** meet. I enjoy taking an idea all the way from a research question to a working product, and I care about AI that is **reliable, transparent, and genuinely useful** to the people who depend on it.
 
 ```python
 class Jayani:
     location   = "Sri Lanka"
-    focus      = ["Generative AI & LLMs", "Agentic AI", "Computer Vision", "Full-Stack Web","Multi-agent systems", "MCP & A2A", "Fine-tuning", "RAG pipelines"]
+    focus      = ["Generative AI & LLMs", "Agentic AI", "Computer Vision", "Full-Stack Web"]
     research   = ["LLM hallucination mitigation", "Privacy in the AI era", "AI for child safety"]
     community  = "Microsoft Student Ambassador · Microsoft IT Pro Community"
     certified  = ["Microsoft Certified: Azure AI Fundamentals (AI-900)"]
-   
+    learning   = ["Multi-agent systems", "MCP & A2A", "Fine-tuning", "RAG pipelines"]
 
     def motto(self):
         return "Research it, build it, share it."
@@ -68,41 +68,7 @@ class Jayani:
 </tr>
 </table>
 
----
 
-## Featured Repositories
-
-### AI-Powered
-
-<p align="center">
-  <a href="https://github.com/JMAdikari/AI-Web-Auditor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=AI-Web-Auditor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="AI-Web-Auditor"/></a>
-</p>
-
-| Repository | What it does | Built with |
-|---|---|---|
-| [AI-Web-Auditor](https://github.com/JMAdikari/AI-Web-Auditor) | Extracts factual metrics from any webpage and generates structured SEO, content and UX analysis | JavaScript · Google Gemini |
-
-### Full-Stack Web
-
-<p align="center">
-  <a href="https://github.com/JMAdikari/MovieExplorer-Backend"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="MovieExplorer-Backend"/></a>
-  <a href="https://github.com/JMAdikari/NoteApp"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=NoteApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="NoteApp"/></a>
-  <a href="https://github.com/JMAdikari/Book-Management-System"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="Book-Management-System"/></a>
-</p>
-
-| Repository | What it does | Built with |
-|---|---|---|
-| [MovieExplorer-Backend](https://github.com/JMAdikari/MovieExplorer-Backend) | Movie discovery platform with favorites and a personalized browsing experience | C# · .NET |
-| [NoteApp](https://github.com/JMAdikari/NoteApp) | Note-taking app with user authentication and full CRUD | Laravel · Vue.js · PHP |
-| [Book-Management-System](https://github.com/JMAdikari/Book-Management-System) | Organize and manage personal book collections | JavaScript · Full-Stack |
-
-### Starred Repositories
-
-<!-- RECENT-REPOS:START -->
-_This list refreshes automatically every day with my repositories that have stars._
-<!-- RECENT-REPOS:END -->
-
----
 
 ## Research
 
