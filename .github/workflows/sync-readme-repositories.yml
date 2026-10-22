@@ -1,0 +1,40 @@
+name: Sync README repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update README generated blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FEATURED_REPOS_LIMIT: "6" # Change this limit to adjust featured repositories count.
+          STARRED_REPOS_LIMIT: "15" # Change this limit to adjust starred repositories count.
+        run: python scripts/sync_readme_repositories.py --readme README.md --owner "${{ github.repository_owner }}"
+
+      - name: Commit README changes (if any)
+        run: |
+          if git diff --quiet README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): sync featured and starred repositories"
+          git push
