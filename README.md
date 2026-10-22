@@ -1,87 +1,189 @@
 <div align="center">
-  
-# Jayani Adikari
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+Undergraduate;AI%2FML+%7C+Web+Development+%7C+Research+Enthusiast;Java+%7C+Python+%7C+JS%2FTS+%7C+PHP+%7C+SQL+%7C+C%2FC%2B%2B+%7C+C%23;Spring+Boot+%7C+React+%7C+Next.js+%7C+Laravel+%7C+.NET)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:F1A11E&height=180&section=header&text=Jayani%20Adikari&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Research%20%C2%B7%20Community&descAlignY=56&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Building+practical+and+ethical+AI+systems;Full-stack+developer+%7C+Laravel+%C2%B7+React+%C2%B7+.NET+%C2%B7+Spring;Published+researcher+on+LLM+hallucination+mitigation;Microsoft+Student+Ambassador+%26+builder)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/jayani-adikari-a9aa31291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jayaniadikari19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/JMAdikari?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jayani-adikari-a9aa31291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JMAdikari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+---
+
+## About Me
+
+I'm **Jayani Adikari**, a Computer Science graduate from **NSBM Green University, Sri Lanka**, working at the point where **AI/ML, software engineering and research** meet. I enjoy taking an idea all the way from a research question to a working product and I care about AI that is **reliable, transparent and genuinely useful** to the people who depend on it.
+
+```python
+class Jayani:
+    location   = "Sri Lanka"
+    focus      = ["Generative AI & LLMs", "Agentic AI", "Computer Vision", "Full-Stack Web","Multi-agent systems", "MCP & A2A", "Fine-tuning", "RAG pipelines"]
+    research   = ["LLM hallucination mitigation", "Privacy in the AI era", "AI for child safety"]
+    community  = "Microsoft Student Ambassador · Microsoft IT Pro Community"
+    certified  = ["Microsoft Certified: Azure AI Fundamentals (AI-900)"]
+   
+
+    def motto(self):
+        return "Research it, build it, share it."
+```
+
+---
+
+## What I Work On
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI / Machine Learning
+- LLMs, prompt engineering and hallucination mitigation
+- RAG, agentic and multi-agent systems
+- Computer vision with YOLO and LSTM
+- Recommendation systems (TF-IDF, cosine similarity)
+- Gemini and Azure AI services
+
+</td>
+<td width="33%" valign="top">
+
+### Web Development
+- Full-stack apps with authentication and REST APIs
+- Laravel + Vue.js, React / Next.js
+- ASP.NET Core and Spring Boot backends
+- MySQL schema design
+- AI features integrated into web products
+
+</td>
+<td width="33%" valign="top">
+
+### Research
+- Systematic literature reviews
+- Survey and mixed-method studies
+- Responsible and ethical AI
+- Privacy awareness and the privacy paradox
+- Bias and reliability in LLM outputs
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Repositories
+
+### AI-Powered
+
+<p align="center">
+  <a href="https://github.com/JMAdikari/AI-Web-Auditor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=AI-Web-Auditor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="AI-Web-Auditor"/></a>
+</p>
+
+| Repository | What it does | Built with |
+|---|---|---|
+| [AI-Web-Auditor](https://github.com/JMAdikari/AI-Web-Auditor) | Extracts factual metrics from any webpage and generates structured SEO, content and UX analysis | JavaScript · Google Gemini |
+
+### Full-Stack Web
+
+<p align="center">
+  <a href="https://github.com/JMAdikari/MovieExplorer-Backend"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="MovieExplorer-Backend"/></a>
+  <a href="https://github.com/JMAdikari/NoteApp"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=NoteApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="NoteApp"/></a>
+  <a href="https://github.com/JMAdikari/Book-Management-System"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="Book-Management-System"/></a>
+</p>
+
+| Repository | What it does | Built with |
+|---|---|---|
+| [MovieExplorer-Backend](https://github.com/JMAdikari/MovieExplorer-Backend) | Movie discovery platform with favorites and a personalized browsing experience | C# · .NET |
+| [NoteApp](https://github.com/JMAdikari/NoteApp) | Note-taking app with user authentication and full CRUD | Laravel · Vue.js · PHP |
+| [Book-Management-System](https://github.com/JMAdikari/Book-Management-System) | Organize and manage personal book collections | JavaScript · Full-Stack |
+
+### Starred Repositories
+
+<!-- RECENT-REPOS:START -->
+_This list refreshes automatically every day with my repositories that have stars._
+<!-- RECENT-REPOS:END -->
+
+---
+
+## Research
+
+| Work | Status | Area |
+|---|---|---|
+| **Prompt Engineering for Hallucination Mitigation in LLMs: A Systematic Review** | Published · NSRSIT 2026 | Generative AI, LLM reliability |
+| **Privacy Awareness in the AI Era** — the privacy paradox among Sri Lankan IT undergraduates | In progress | Responsible AI, data protection |
+| **AI-Based Child Safety Monitoring** — fall detection with YOLO + LSTM | In progress | Computer vision, deep learning |
+
+Research interests: hallucination detection · bias auditing in LLM-driven hiring decisions · AI data privacy · agentic AI evaluation
+
+---
+
+## Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Microsoft Student Ambassador**
+Running sessions, workshops and learning paths that help students get started with Microsoft AI and cloud technologies.
+
+</td>
+<td width="50%" valign="top">
+
+**Microsoft IT Pro Community**
+Content creator and event coordinator, helping plan tech events and writing content that makes AI and cloud topics approachable.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900"/>
+  <img src="https://img.shields.io/badge/Microsoft-Student_Ambassador-737373?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador"/>
+  <img src="https://img.shields.io/badge/Published-Researcher-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Published Researcher"/>
+</p>
+
+---
+
+## Tech Stack
+
+**AI / ML**
+<p><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,azure&theme=dark" alt="AI and ML tools"/></p>
+
+**Web Development**
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,php,laravel,java,spring,cs,dotnet&theme=dark" alt="Web development tools"/></p>
+
+**Languages, Databases & Tools**
+<p><img src="https://skillicons.dev/icons?i=c,cpp,mysql,git,github,vscode,postman,docker&theme=dark" alt="Languages and tools"/></p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JMAdikari&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMAdikari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMAdikari&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JMAdikari/JMAdikari/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/JMAdikari/JMAdikari/output/github-snake.svg" alt="Contribution snake animation"/>
+  </picture>
+</p>
+
+---
+
+## Let's Collaborate
+
+I'm open to collaborations on **AI/ML research, agentic AI projects, and full-stack development**, and always happy to talk about community events or tech talks. Reach out on [LinkedIn](https://www.linkedin.com/in/jayani-adikari-a9aa31291) or by [email](mailto:jayaniadikari19@gmail.com).
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMAdikari&style=for-the-badge&color=6C63FF" alt="profile views" />
-</div>
 
-<br/>
+<em>"Code is poetry written for machines but read by humans."</em>
 
-## 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F1A11E,50:6C63FF,100:0D1117&height=110&section=footer" width="100%"/>
 
-I'm Jayani, a Computer Science undergraduate with a strong interest in AI/ML, web development, and research.
-I enjoy building practical projects, exploring new technologies, and continuously improving how I design and develop software.
-
-<br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs,c,cpp,sql,spring,dotnet,laravel,react,next,mysql,git,github,vscode&theme=dark" alt="Tech Skills" />
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/JMAdikari/MovieExplorer-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="MovieExplorer-Backend repository card" />
-  </a>
-  <a href="https://github.com/JMAdikari/Movie-Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Movie-Explorer&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="Movie-Explorer repository card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JMAdikari/Book-Library-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="Book-Library-Management-System repository card" />
-  </a>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMAdikari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F1A11E&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMAdikari&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=F1A11E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F1A11E&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMAdikari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" alt="Top languages chart" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JMAdikari&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <em>"Code is poetry written for machines but read by humans."</em>
 </div>
