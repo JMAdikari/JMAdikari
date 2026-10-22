@@ -15,10 +15,6 @@
   <a href="https://github.com/JMAdikari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace with your real email -->
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <div align="center">
@@ -29,14 +25,8 @@
 
 ## 🧠 About Me
 
-```js
-const Jayani = {
-  education: "Computer Science Undergraduate",
-  interests: ["AI/ML", "Web Development", "Research"],
-  languages: ["Java", "Python", "JavaScript", "TypeScript", "PHP", "SQL", "C#", "C", "C++"],
-  frameworks: [".NET", "Laravel", "React", "Next.js", "Spring Boot"],
-};
-```
+I'm Jayani, a Computer Science undergraduate with a strong interest in AI/ML, web development, and research.
+I enjoy building practical projects, exploring new technologies, and continuously improving how I design and develop software.
 
 <br/>
 
@@ -52,16 +42,16 @@ const Jayani = {
 
 <div align="center">
   <a href="https://github.com/JMAdikari/MovieExplorer-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=MovieExplorer-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="MovieExplorer-Backend repository card" />
   </a>
   <a href="https://github.com/JMAdikari/Movie-Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Movie-Explorer&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Movie-Explorer&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="Movie-Explorer repository card" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/JMAdikari/Book-Library-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JMAdikari&repo=Book-Library-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF&icon_color=F1A11E" alt="Book-Library-Management-System repository card" />
   </a>
 </div>
 
@@ -78,7 +68,7 @@ const Jayani = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMAdikari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMAdikari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=6C63FF" alt="Top languages chart" />
 </div>
 
 <br/>
@@ -93,5 +83,5 @@ const Jayani = {
 </div>
 
 <div align="center">
-  "Code is poetry written for machines but read by humans."
+  <em>"Code is poetry written for machines but read by humans."</em>
 </div>
